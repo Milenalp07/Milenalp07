@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenalp07&layout=compact)
+
+
